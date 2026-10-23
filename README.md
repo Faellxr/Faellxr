@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Rafael Milhomem
 
 🚀 **Desenvolvedor Full-Stack | Next.js, React & Supabase**  
-🇧🇷 Goiânia, Brasil
+📍 Goiânia, GO — Brasil
 
 Construo **sites institucionais**, **painéis administrativos** e **sistemas web sob medida** para empresas.  
 Foco em **performance, código limpo e soluções que resolvem problemas reais do negócio**.
@@ -110,4 +110,3 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 🤝 Aberto a novos projetos, parcerias e boas ideias  
 💬 Tem um projeto em mente? [Fale comigo no WhatsApp](https://wa.me/5562984155839)
-
