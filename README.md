@@ -108,5 +108,5 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-🤝 Aberto a novos projetos, parcerias e boas ideias  
+🤝 Aberto a novos projetos, freelas, parcerias e boas ideias  
 💬 Tem um projeto em mente? [Fale comigo no WhatsApp](https://wa.me/5562984155839)
