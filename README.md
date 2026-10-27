@@ -1,7 +1,7 @@
-# Olá 👋, eu sou o Rafael Milhomem
+# Olá, eu sou o Rafael Milhomem
 
-🚀 **Desenvolvedor Full-Stack | Next.js, React & Supabase**  
-📍 Goiânia, GO — Brasil
+**Desenvolvedor Full-Stack | Next.js, React & Supabase**  
+Goiânia, GO — Brasil
 
 Construo **sites institucionais**, **painéis administrativos** e **sistemas web sob medida** para empresas.  
 Foco em **performance, código limpo e soluções que resolvem problemas reais do negócio**.
@@ -10,7 +10,7 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafael-milhomem-6ab884301/">
@@ -32,20 +32,20 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-## 🧠 O que eu faço
+## O que eu faço
 
--   🌐 Sites institucionais rápidos e otimizados para SEO
--   🗂️ Painéis administrativos com gestão de conteúdo, produtos e leads
--   🔐 Autenticação, permissões e banco de dados com Supabase/PostgreSQL
--   ⚡ Performance e boas práticas de front-end
--   🎨 Interfaces modernas com animações (Framer Motion)
--   🤖 Automação de dados e integrações
--   📊 BI e relatórios com Python + BigQuery
--   🚢 Deploy contínuo com Vercel e GitHub Actions
+-    Sites institucionais rápidos e otimizados para SEO
+-    Painéis administrativos com gestão de conteúdo, produtos e leads
+-    Autenticação, permissões e banco de dados com Supabase/PostgreSQL
+-    Performance e boas práticas de front-end
+-    Interfaces modernas com animações (Framer Motion)
+-    Automação de dados e integrações
+-    BI e relatórios com Python + BigQuery
+-    Deploy contínuo com Vercel e GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -76,20 +76,20 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-## 💼 Projetos recentes
+##  Projetos recentes
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🗂️ **Painel administrativo — grupo industrial** | Gestão de produtos, fichas técnicas, notícias e leads dos sites, com permissões e publicação em fases | Supabase · PostgreSQL · GitHub Actions |
-| 🏭 **Sites institucionais — 4 empresas do grupo** | Implementos, caminhões, componentes e holding, com catálogo e comparador de produtos | HTML · CSS · JavaScript · Vercel |
-| 📊 **Automação de BI** | Coleta e carga automática de dados para relatórios | Python · BigQuery |
-| ⚡ **Plataformas web** | Aplicações com autenticação, banco de dados e animações | Next.js · TypeScript · Supabase |
+|  **Painel administrativo — grupo industrial** | Gestão de produtos, fichas técnicas, notícias e leads dos sites, com permissões e publicação em fases | Supabase · PostgreSQL · GitHub Actions |
+|  **Sites institucionais — 4 empresas do grupo** | Implementos, caminhões, componentes e holding, com catálogo e comparador de produtos | HTML · CSS · JavaScript · Vercel |
+|  **Automação de BI** | Coleta e carga automática de dados para relatórios | Python · BigQuery |
+|  **Plataformas web** | Aplicações com autenticação, banco de dados e animações | Next.js · TypeScript · Supabase |
 
-> 🔒 Projetos de clientes ficam em repositórios privados. Detalhes sob pedido.
+>  Projetos de clientes ficam em repositórios privados. Detalhes sob pedido.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img height="170" src="https://streak-stats.demolab.com?user=Faellxr&theme=tokyonight&hide_border=true&locale=pt_BR" />
@@ -101,7 +101,7 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-## 🚀 Filosofia
+##  Filosofia
 
 > _"Código não é só resolver problemas.  
 > É construir soluções que funcionam, duram e geram valor real."_
