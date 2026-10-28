@@ -10,28 +10,6 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 
 ---
 
-## Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-milhomem-6ab884301/">
-    <img src="https://img.shields.io/badge/LinkedIn-RAFAEL%20MILHOMEM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://vipextech.com.br/">
-    <img src="https://img.shields.io/badge/Site-VIPEXTECH-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/faellxr/">
-    <img src="https://img.shields.io/badge/Instagram-@FAELLXR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5562984155839">
-    <img src="https://img.shields.io/badge/WhatsApp-FALE%20COMIGO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:lmilhomem4@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-LMILHOMEM4@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## O que eu faço
 
 -    Sites institucionais rápidos e otimizados para SEO
@@ -86,27 +64,3 @@ Desenvolvo projetos para clientes através da **[VipexTech](https://vipextech.co
 |  **Plataformas web** | Aplicações com autenticação, banco de dados e animações | Next.js · TypeScript · Supabase |
 
 >  Projetos de clientes ficam em repositórios privados. Detalhes sob pedido.
-
----
-
-##  GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=Faellxr&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
-
-<p align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faellxr&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-##  Filosofia
-
-> _"Código não é só resolver problemas.  
-> É construir soluções que funcionam, duram e geram valor real."_
-
----
-
-🤝 Aberto a novos projetos, freelas, parcerias e boas ideias  
-💬 Tem um projeto em mente? [Fale comigo no WhatsApp](https://wa.me/5562984155839)
